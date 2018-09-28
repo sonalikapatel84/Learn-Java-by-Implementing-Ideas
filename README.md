@@ -9,3 +9,5 @@ https://spring.io/guides/gs/securing-web/
 https://www.javaworld.com/article/2078034/spring-framework/spring-framework-mastering-spring-mvc.html
 
 https://dzone.com/articles/spring-mvc-example-for-user-registration-and-login-1
+
+https://www.journaldev.com/7655/spring-orm-example-jpa-hibernate-transaction
